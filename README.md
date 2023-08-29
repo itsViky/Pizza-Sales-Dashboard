@@ -2,7 +2,7 @@
 
 In this Dashboard, I used Power BI visualization software and for the database, I used the MS-Sql server.
 
-In this learning, I take the pizza sales dataset from the Kaggle and after some data cleaning & transformation. I created a dashboard that answers some questions like - 
+## In this learning, I take the pizza sales dataset from the Kaggle and after some data cleaning & transformation. I created a dashboard that answers some questions like - 
 1) What is the total Revenue?
 2) What is the Total Number of orders?
 3) How many pizzas sold? 
